@@ -10,7 +10,7 @@
 - 🤓 I’m currently working on something cool;
 - 👨🏻‍💻 I’m looking to build meaningful apps ;
 - 🙌🏼 2022 Goals: Learn a new things ;
-- 📫 How to reach me: aymenouerghui0@gmail.com ;
+- 📫 How to reach me: aymen.ouerghui@esprit.tn ;
 
 
 
