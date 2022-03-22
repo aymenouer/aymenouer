@@ -33,36 +33,37 @@
       <th colspan="3">PROGRESSING IN</th>
     </tr>
     <tr>
-      <td align="center">
-        <a href="https://www.oracle.com/uk/java/">
-          <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="70" height="70"/>
+            <td align="center">
+        <a href="https://reactjs.org/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="ReactJS" width="70" height="70"/>
         </a>
       </td>
       <td align="center">
-        <a href="https://spring.io/projects/spring-boot">
-          <img src="https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg" alt="SpringBoot" width="70" height="70"/>
+        <a href="https://nextjs.org/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="NextJS" width="70" height="70"/>
         </a>
       </td>
       <td align="center">
-        <a href="https://spring.io/">
-          <img src="https://spring.io/images/projects/spring-framework-640ad1b04f7efa89e0f0f7353e6b5e02.svg?v=2" alt="Spring" width="70" height="70"/>
+        <a href="https://angular.io/">
+          <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="AngularJS" width="70" height="70"/>
+        </a>
+      </td>
+   <td align="center">
+        <a href="https://www.docker.com/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="docker" width="70" height="70"/>
         </a>
       </td>
       <td align="center">
-        <a href="https://www.graalvm.org/">
-          <img src="https://www.graalvm.org/resources/img/graalvm.png" alt="Spring" width="70" height="70"/>
+        <a href="https://kubernetes.io/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="70" height="70"/>
         </a>
       </td>
-			<td align="center">
-        <a href="https://quarkus.io/">
-          <img src="https://images.squarespace-cdn.com/content/5c9b21c1e666692d1b33460b/1557409975418-CRFDZ3MOM347RNLL2C33/quarkus-logo-large.jpg?content-type=image%2Fjpeg" alt="Spring" width="70" height="70"/>
+        <td align="center">
+        <a href="https://www.jenkins.io/">
+          <img src="https://miro.medium.com/max/1600/1*LOFbTP2SxXcFpM_qTsUSuw.png" alt="Jenkins" width="70" height="70"/>
         </a>
       </td>
-      <td align="center">
-        <a href="https://www.oracle.com/uk/database/technologies/">
-          <img src="https://pbs.twimg.com/profile_images/1448975437246255105/cc989Pmx_400x400.jpg" alt="Oracle Database" width="70" height="70"/>
-        </a>
-      </td>
+   
     </tr>
     <tr>
       <td align="center">
