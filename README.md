@@ -130,55 +130,61 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://www.docker.com/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="docker" width="70" height="70"/>
-        </a>
+          <a href="https://www.electronjs.org/">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" alt="Electron" width="70" height="70"/>
+          </a>
+      </td>
+        <td align="center">
+          <a href="https://www.mysql.com/">
+            <img src="https://i1.wp.com/fileserialkey.com/wp-content/uploads/2019/07/2-2.png?fit=300%2C300&ssl=1" alt="MySQL SQL" width="70" height="70"/>
+          </a>
       </td>
       <td align="center">
-        <a href="https://kubernetes.io/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="70" height="70"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.heroku.com/">
-          <img src="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/v1491420676/cenlvst0fgs8ejx12n8u.png" alt="Heroku" width="70" height="70"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://reactjs.org/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="ReactJS" width="70" height="70"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://azure.microsoft.com/en-us/">
-          <img src="https://mspoweruser.com/wp-content/uploads/2017/09/azure-1.png" alt="MS Azure" width="70" height="70"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.jenkins.io/">
-          <img src="https://miro.medium.com/max/1600/1*LOFbTP2SxXcFpM_qTsUSuw.png" alt="Jenkins" width="70" height="70"/>
+        <a href="https://www.mongodb.com/">
+          <img src="https://www.jorgehernandezramirez.com/wp-content/uploads/2017/03/mongodb.png" alt="mongoDB" width="70" height="70"/>
         </a>
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <a href="https://spark.apache.org/">
-          <img src="https://www.onlinebooksreview.com/uploads/blog_images/2017/11/27_file.png" alt="Apache Spark" width="70" height="70"/>
-        </a>
-      </td>
-			<td align="center">
-        <a href="https://www.elastic.co/">
-          <img src="https://mms.businesswire.com/media/20210107005214/en/712541/5/elastic-logo-V-full_color.jpg" alt="ELK Stack" width="70" height="70"/>
+     <td align="center">
+        <a href="https://github.com/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Font_Awesome_5_brands_github.svg" alt="git" width="70" height="70"/>
         </a>
       </td>
       <td align="center">
-        <a href="https://en.wikipedia.org/wiki/Linux">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="70" height="70"/>
+        <a href="https://en.wikipedia.org/wiki/HTML5">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="70" height="70"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://en.wikipedia.org/wiki/CSS">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS css3" width="70" height="70"/>
         </a>
       </td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://graphql.org/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="Graphql" width="70" height="70"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.apollographql.com/">
+          <img src="https://miro.medium.com/proxy/1*BIR94Q8MDPonvvFtsnUYLg.png" alt="Apollo" width="70" height="70"/>
+        </a>
+      </td>
+         <td align="center">
+        <a href="https://www.heroku.com/">
+          <img src="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/v1491420676/cenlvst0fgs8ejx12n8u.png" alt="Heroku" width="70" height="70"/>
+        </a>
+      </td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      
     </tr>
     <tr>
       <td align="center" colspan="6"><b><i>*In no particular order</i></b>.</td>
