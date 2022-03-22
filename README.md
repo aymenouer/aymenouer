@@ -176,7 +176,7 @@
           <img src="https://miro.medium.com/proxy/1*BIR94Q8MDPonvvFtsnUYLg.png" alt="Apollo" width="70" height="70"/>
         </a>
       </td>
-         <td align="center">
+      <td align="center">
         <a href="https://www.heroku.com/">
           <img src="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/v1491420676/cenlvst0fgs8ejx12n8u.png" alt="Heroku" width="70" height="70"/>
         </a>
@@ -184,7 +184,6 @@
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
-      
     </tr>
     <tr>
       <td align="center" colspan="6"><b><i>*In no particular order</i></b>.</td>
