@@ -66,37 +66,35 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://aws.amazon.com/">
-          <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="aws" width="70" height="70"/>
+        <a href="https://en.wikipedia.org/wiki/JavaScript">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="70" height="70"/>
+        </a>
+      </td>
+    <td align="center">
+        <a href="https://fr.wikipedia.org/wiki/TypeScript">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/TypeScript_Logo.png" alt="JavaScript" width="70" height="70"/>
         </a>
       </td>
       <td align="center">
-        <a href="">
-          <a href="https://www.mysql.com/">
-            <img src="https://i1.wp.com/fileserialkey.com/wp-content/uploads/2019/07/2-2.png?fit=300%2C300&ssl=1" alt="MySQL SQL" width="70" height="70"/>
-          </a>
+        <a href="https://www.oracle.com/uk/java/">
+          <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="70" height="70"/>
         </a>
       </td>
-      <td align="center">
-        <a href="https://www.mongodb.com/">
-          <img src="https://www.jorgehernandezramirez.com/wp-content/uploads/2017/03/mongodb.png" alt="mongoDB" width="70" height="70"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://nodejs.org/en/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="70" height="70"/>
-        </a>
-      </td>
-      <td align="center">
+       <td align="center">
         <a href="https://www.python.org/">
           <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="Python" width="70" height="70"/> 
         </a>
-      </td>
-      <td align="center">
-        <a href="https://angular.io/">
-          <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="AngularJS" width="70" height="70"/>
+      </td> 
+       <td align="center">
+        <a href="https://aws.amazon.com/">
+          <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="aws" width="70" height="70"/>
         </a>
-      </td>
+      </td> 
+        <td align="center">
+        <a href="https://firebase.google.com/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" alt="firebase" width="70" height="70"/>
+        </a>
+      </td> 
     </tr>
     <tr>
       <td align="center">
