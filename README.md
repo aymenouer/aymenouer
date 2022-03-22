@@ -98,33 +98,33 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Font_Awesome_5_brands_github.svg" alt="git" width="70" height="70"/>
+        <a href="https://nodejs.org/en/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="70" height="70"/>
         </a>
       </td>
-      <td align="center">
-        <a href="https://www.scala-lang.org/">
-          <img src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png" alt="Scala" width="70" height="70"/>
+        <td align="center">
+        <a href="https://expressjs.com/fr/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="expressjs" width="70" height="70"/>
         </a>
       </td>
-      <td align="center">
-        <a href="https://en.wikipedia.org/wiki/HTML5">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="70" height="70"/>
+          <td align="center">
+        <a href="https://spring.io/projects/spring-boot">
+          <img src="https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg" alt="SpringBoot" width="70" height="70"/>
         </a>
       </td>
-      <td align="center">
-        <a href="https://en.wikipedia.org/wiki/CSS">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS css3" width="70" height="70"/>
+        <td align="center">
+        <a href="https://vitejs.dev/">
+          <img src="https://vitejs.dev/logo.svg" alt="Vite" width="70" height="70"/>
         </a>
       </td>
-      <td align="center">
-        <a href="https://en.wikipedia.org/wiki/JavaScript">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="70" height="70"/>
+  <td align="center">
+        <a href="https://socket.io/fr/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="SocketIo" width="70" height="70"/>
         </a>
       </td>
-      <td align="center">
-        <a href="https://cassandra.apache.org/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1200px-Cassandra_logo.svg.png" alt="Oracle Database" width="70" height="70"/>
+  <td align="center">
+        <a href="https://sass-lang.com/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="Sass" width="70" height="70"/>
         </a>
       </td>
     </tr>
