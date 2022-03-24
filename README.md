@@ -147,7 +147,12 @@
           <img src="https://www.jorgehernandezramirez.com/wp-content/uploads/2017/03/mongodb.png" alt="mongoDB" width="70" height="70"/>
         </a>
       </td>
-      <td align="center"></td>
+      <td align="center">
+        <a href="https://jestjs.io/fr/">
+           <img src="https://everyday.codes/wp-content/uploads/2020/02/opengraph.png" alt="Jest" width="70" height="70"/>
+         </a>
+     
+     </td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
