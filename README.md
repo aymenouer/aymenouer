@@ -25,10 +25,9 @@
 
 <br />
 
-|GITHUB STATS|MOST USED LANGUAGES|
-|:---:|:---:|
-|[![Aymen Ouerghui's github stats](https://github-readme-stats.vercel.app/api?username=aymenouer&count_private=true&show_icons=true&theme=dracula)](https://github.com/SelimHorri/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymenouer&hide=Rich%20Text%20Format,scheme,xml,shell,yaml,haml,php,json,css,sass,scss,javascript,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2018-02-01,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact&theme=tokyonight)](https://github.com/aymenouer/github-readme-stats)|
-|![Github Page Visit Count](https://komarev.com/ghpvc/?username=aymenouer)||
+|GITHUB STATS|
+|:---:|
+|[![Aymen Ouerghui's github stats](https://github-readme-stats.vercel.app/api?username=aymenouer&count_private=true&show_icons=true&theme=dracula)](https://github.com/SelimHorri/github-readme-stats)|![Github Page Visit Count](https://komarev.com/ghpvc/?username=aymenouer)||
 <table border="0" cellspacing="0" cellpadding="0" allign="center">
   <tbody>
     <tr>
