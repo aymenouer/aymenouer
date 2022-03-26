@@ -15,12 +15,8 @@
 
 
 ### Connect with me:
-
-[<img align="left" alt="fullstacked.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Portfolio]
-[<img align="left" alt="fullstacked.com | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="fullstacked.com | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymen-ouerghi-249632146/)
+[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aymenouer.github.io/portfolio/)
 
 
 <br />
@@ -206,10 +202,6 @@
 ***"You need to rescue the princess with code - but sometimes your code doesn't work and the princess is a dragon and you're a fish. Welcome to programming:"*** - <https://toggl.com/programming-princess/>
 
 ---
-
-[Portfolio]: https://aymenouer.github.io/portfolio/
-[instagram]: https://www.instagram.com/ouerghuiaymen
-[linkedin]: https://www.linkedin.com/in/aymen-ouerghi-249632146/
 
 
 
