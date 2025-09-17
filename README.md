@@ -1,7 +1,4 @@
 ### Hi there, I'm Aymen Ouerghui check out my -> [Portfolio](https://aymenouer.github.io/portfolio/)👋👋
-## A Software Engineering student who loves to code and learn new things each day. 
-
-
 
 ## I'm a Full-Stack Developer who is eager to learn!
 - 🖥 I’m currently working on a full-stack app ;
