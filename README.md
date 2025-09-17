@@ -18,7 +18,6 @@
 
 |GITHUB STATS|
 |:---:|
-|[![Aymen Ouerghui's github stats](https://github-readme-stats.vercel.app/api?username=aymenouer&count_private=true&show_icons=true&theme=dracula)](https://github.com/SelimHorri/github-readme-stats)|
 |![Github Page Visit Count](https://komarev.com/ghpvc/?username=aymenouer)||
 <table border="0" cellspacing="0" cellpadding="0" allign="center">
   <tbody>
