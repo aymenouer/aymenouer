@@ -1,6 +1,6 @@
 # Hi, I'm Aymen 👋
 
-**Frontend Engineer at Immomio** · Hamburg, Germany
+**Frontend Engineer** · Hamburg, Germany
 
 I build maintainable, user-focused web applications. My main stack is **Angular, TypeScript, and RxJS**, and I'm expanding my skills toward full-stack development with **Java and Spring Boot**.
 
