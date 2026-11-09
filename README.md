@@ -3,7 +3,7 @@
   <img src="assets/terminal-light.svg" alt="Terminal introduction: Aymen Ouerghui, Software Engineer in Hamburg, working with Angular, TypeScript, and frontend architecture." width="100%">
 </picture>
 
-hey, I'm **Aymen**. I'm a **Software Engineer** based in Hamburg, Germany, working on web applications at **Immomio**. My day-to-day is **Angular**, **TypeScript**, and the things that make bigger frontend codebases work: architecture, predictable state, reusable UI, and testing.
+hey, I'm **Aymen**. I'm a **Software Engineer** based in Hamburg, Germany, working on web applications. My day-to-day is **Angular**, **TypeScript**, and the things that make bigger frontend codebases work: architecture, predictable state, reusable UI, and testing.
 
 I like turning complicated product requirements into interfaces that feel simple. These days, I'm also learning **Java and Spring Boot** so I can contribute further across the stack.
 
